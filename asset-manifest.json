@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/7_lab/static/css/main.ff9e8caa.css",
+    "main.js": "/7_lab/static/js/main.e5444134.js",
+    "static/media/feodosia.jpg": "/7_lab/static/media/feodosia.5bb509fbc5c7fd49468e.jpg",
+    "index.html": "/7_lab/index.html",
+    "main.ff9e8caa.css.map": "/7_lab/static/css/main.ff9e8caa.css.map",
+    "main.e5444134.js.map": "/7_lab/static/js/main.e5444134.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff9e8caa.css",
+    "static/js/main.e5444134.js"
+  ]
+}
