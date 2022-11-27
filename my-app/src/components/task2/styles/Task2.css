@@ -1,0 +1,33 @@
+.product {
+    background-color: white;
+    /*flex-basis: 25%;*/
+    padding: 16px;
+    margin-bottom: 16px;
+    box-shadow: 0 0 8px 0 #e0e0e0;
+    text-align: center;
+}
+.product:hover{
+    box-shadow: 0 0 15px #6b5d3a;
+}
+.image {
+  width: 250px;
+}
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  /*padding-top: 110px;*/
+  display: grid;
+  grid-template-columns: repeat;
+  justify-content: space-around;
+  grid-template-columns: repeat(auto-fill, 300px);
+  gap: 16px;
+}
+.title{
+    text-align: center;
+    font-weight: 700;
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+.contentTask2{
+    padding-top: 70px;
+}

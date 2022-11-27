@@ -1,0 +1,67 @@
+.content{
+    max-width: 720px;
+    margin: 0 auto;
+    box-shadow: 0 0 15px #000000;
+    padding: 5px 20px;
+}
+#oneColor{
+    background-color: rgb(255, 81, 0);
+    color: rgb(255, 255, 255);
+}
+#twoColor{
+    background-color: antiquewhite;
+    color: rgb(0, 0, 0);
+}
+#threeColor{
+    background-color: rgb(146, 255, 155);
+    color: rgb(0, 109, 199);
+}
+#fourColor{
+    background-color: antiquewhite;
+    color: rgb(0, 0, 0);
+}
+#image{
+    width: 300px;
+    height: 160px;
+}
+#img{
+    width: 750px;
+    height: 400px;
+}
+
+body{
+    background-color: antiquewhite;
+}
+ul{
+    list-style-type: circle;
+}
+h2{
+    text-align: center;
+}
+span{
+    font-weight: 700;
+    font-style: italic;
+}
+.text{
+    text-align: justify;
+    text-indent: 1.5em;
+}
+a img{
+    
+    margin: 0 auto;
+    display: block;
+}
+
+.action_with_image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.action_with_image div{
+    margin: 0 0 10px 0;
+}
+button{
+    margin: 0 10px 0 0;
+}
